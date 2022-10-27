@@ -1,0 +1,60 @@
+<ion-header>
+  <ion-navbar color="primary">
+    <ion-title align="center">Inicio</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding class="contenedor">
+  <img class="cartel" [src]="'assets/imgs/cartel.jpeg'">
+  <ion-item-divider color="light">Domingo de Ramos</ion-item-divider>
+  <ion-list *ngFor="let hermandad of hermandades">    
+      <button ion-item *ngIf="(hermandad.dia==1)" (click)="consultaPagina(hermandad)">
+          <ion-thumbnail item-start>
+              <img [src]="'assets/imgs/escudos/' + hermandad.id + '.png'">
+            </ion-thumbnail>  
+        {{hermandad.name}}
+      </button>
+  </ion-list>
+  <ion-item-divider color="light">Martes Santo</ion-item-divider>
+  <ion-list *ngFor="let hermandad of hermandades">    
+      <button ion-item *ngIf="(hermandad.dia==3)" (click)="consultaPagina(hermandad)">
+        <ion-thumbnail item-start>
+          <img [src]="'assets/imgs/escudos/' + hermandad.id + '.png'">
+        </ion-thumbnail>  
+         {{hermandad.name}}
+      </button>
+  </ion-list>
+  <ion-item-divider color="light">Miércoles Santo</ion-item-divider>
+  <ion-list *ngFor="let hermandad of hermandades">    
+      <button ion-item *ngIf="(hermandad.dia==4)" (click)="consultaPagina(hermandad)">
+          <ion-thumbnail item-start>
+            <img [src]="'assets/imgs/escudos/' + hermandad.id + '.png'">
+          </ion-thumbnail>  
+           {{hermandad.name}}</button>
+  </ion-list>
+  <ion-item-divider color="light">Jueves Santo</ion-item-divider>
+  <ion-list *ngFor="let hermandad of hermandades">    
+      <button ion-item *ngIf="(hermandad.dia==5)" (click)="consultaPagina(hermandad)">
+          <ion-thumbnail item-start>
+            <img [src]="'assets/imgs/escudos/' + hermandad.id + '.png'">
+          </ion-thumbnail>  
+           {{hermandad.name}}</button>
+  </ion-list>
+  <ion-item-divider color="light">Viernes Santo</ion-item-divider>
+  <ion-list *ngFor="let hermandad of hermandades">    
+      <button ion-item *ngIf="(hermandad.dia==6)" (click)="consultaPagina(hermandad)">
+          <ion-thumbnail item-start>
+            <img [src]="'assets/imgs/escudos/' + hermandad.id + '.png'">
+          </ion-thumbnail>  
+           {{hermandad.name}}</button>
+  </ion-list>
+  <ion-item-divider color="light">Domingo de Resurrección</ion-item-divider>
+  <ion-list *ngFor="let hermandad of hermandades">    
+      <button ion-item *ngIf="(hermandad.dia==8)" (click)="consultaPagina(hermandad)">
+          <ion-thumbnail item-start>
+            <img [src]="'assets/imgs/escudos/' + hermandad.id + '.png'">
+          </ion-thumbnail>  
+           {{hermandad.name}}</button>
+  </ion-list>
+  
+</ion-content>

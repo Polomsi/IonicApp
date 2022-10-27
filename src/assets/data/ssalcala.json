@@ -1,0 +1,1473 @@
+[
+   {
+      "id": "1",
+      "name": "La Borriquilla",
+      "fullname": "Cofradía de la Entrada de Jesús en Jerusalén y Nuestra Señora de la Estrella",
+      "casa": "Iglesia de las Angustias",
+      "dia": "1",
+      "hora": "18:00",
+      "historia": "Fue el Domingo de Ramos de 1984 cuando “La Borriquilla”, titular de la Cofradía de la Entrada de Jesús en Jerusalén, salió en penitencia por primera vez. Son muchas las personas que han participado a lo largo de casi 30 años en sacar adelante esta cofradía, varias etapas de proyectos, ilusiones, actividades… <br/><br/> La última etapa comenzó en el año 2003 con una amplia renovación de la estructura de la Cofradía y con la entrada de un nutrido grupo de jóvenes que tomaron las riendas y que a día de hoy siguen actuando para realzar aún más el comienzo de la Semana Santa alcalaína. Son muchas las actividades que la Cofradía realiza a lo largo del año, innovación y mucha voluntad se unen al buen hacer de sus cofrades y colaboradores.  <br/><br/>La imagen del Señor, de 1983, es de Eduardo Espinosa Alfambra aunque fue reformado y policromado para adaptarlo a imagen de vestir por el cordobés José Antonio Cabello Montilla en 2005. El resto del misterio, compuesto por un San Juan, San Pedro, una niña y una mujer hebrea con un niño en brazos y el niño Zaqueo, es por completo de Jose Antonio Cabello Montilla. La talla del paso de misterio corresponde al taller cordobés de Jurado Ortiz. Finalizada la talla en el año 2012 y siendo dorado actualmente. <br/><br/> En la cuaresma 2012, concretamente el Sábado de Ramos tuvo lugar la bendición de Nuestra Señora de la Estrella, titular mariana de esta joven corporación. Imagen de candelero, también obra de Cabello Montilla. Finalmente, el Domingo de Ramos de 2014 salió la dolorosa en procesión bajo palio por primera vez.",
+      "colores": "Túnica y morrión blanco, con cinturón de esparto, los pequeños visten a usanza hebrea.",
+      "pasos": [
+         {
+            "idPaso": "1",
+            "tipo": "Paso de misterio",
+            "nombrePaso": "Jesús entrando en Jerusalén a lomos de un pollino, acompañado de San Juan, San Pedro, una mujer hebrea con su hijo, una niña hebrea y el Zaqueo en la palmera."
+         },
+         {
+            "idPaso": "2",
+            "tipo": "Paso de palio",
+            "nombrePaso": "Nuestra Señora de la Estrella."
+         }
+      ],
+      "calles": [
+         {
+            "idCalle": "1",
+            "nombreCalle": "Iglesia de las Angustias",
+            "latitud": "37.463172",
+            "longitud": "-3.924442"
+         },
+         {
+            "idCalle": "2",
+            "nombreCalle": "Calle Angustias",
+            "latitud": "37.462489",
+            "longitud": "-3.924219"
+         },
+         {
+            "idCalle": "3",
+            "nombreCalle": "Calle Miguel de Cervantes",
+            "latitud": "37.462128",
+            "longitud": "-3.924145"
+         },
+         {
+            "idCalle": "4",
+            "nombreCalle": "Calle Álamos",
+            "latitud": "37.462215",
+            "longitud": "-3.922722"
+         },
+         {
+            "idCalle": "5",
+            "nombreCalle": "Calle Álamos",
+            "latitud": "37.460686",
+            "longitud": "-3.922771"
+         },
+         {
+            "idCalle": "5",
+            "nombreCalle": "Paseo de los Álamos",
+            "latitud": "37.460818",
+            "longitud": "-3.921951"
+         },
+         {
+            "idCalle": "5",
+            "nombreCalle": "Paseo de los Álamos",
+            "latitud": "37.462205",
+            "longitud": "-3.922435"
+         },
+         {
+            "idCalle": "6",
+            "nombreCalle": "Calle Pradillo",
+            "latitud": "37.462243",
+            "longitud": "-3.922858"
+         },
+         {
+            "idCalle": "6",
+            "nombreCalle": "Calle Pradillo",
+            "latitud": "37.462788",
+            "longitud": "-3.923371"
+         },
+         {
+            "idCalle": "8",
+            "nombreCalle": "Calle Veracruz",
+            "latitud": "37.463009",
+            "longitud": "-3.923535"
+         },
+         {
+            "idCalle": "9",
+            "nombreCalle": "Carrera de las Mercedes",
+            "latitud": "37.463153",
+            "longitud": "-3.923197"
+         },
+         {
+            "idCalle": "9",
+            "nombreCalle": "Carrera de las Mercedes",
+            "latitud": "37.463931",
+            "longitud": "-3.923809"
+         },
+         {
+            "idCalle": "10",
+            "nombreCalle": "Calle General Lastres",
+            "latitud": "37.463716",
+            "longitud": "-3.924382"
+         },
+         {
+            "idCalle": "11",
+            "nombreCalle": "Casas de Enfrente",
+            "latitud": "37.463813",
+            "longitud": "-3.924458"
+         },
+         {
+            "idCalle": "12",
+            "nombreCalle": "Calle Alonso de Alcalá",
+            "latitud": "37.463924",
+            "longitud": "-3.924544"
+         },
+         {
+            "idCalle": "12",
+            "nombreCalle": "Calle Alonso de Alcalá",
+            "latitud": "37.463726",
+            "longitud": "-3.925012"
+         },
+         {
+            "idCalle": "13",
+            "nombreCalle": "Ayuntamiento",
+            "latitud": "37.463620",
+            "longitud": "-3.924940"
+         },
+         {
+            "idCalle": "14",
+            "nombreCalle": "Calle General Lastres",
+            "latitud": "37.463498",
+            "longitud": "-3.924852"
+         },
+         {
+            "idCalle": "14",
+            "nombreCalle": "Calle General Lastres",
+            "latitud": "37.463659",
+            "longitud": "-3.924531"
+         },
+         {
+            "idCalle": "15",
+            "nombreCalle": "Calle Angustias",
+            "latitud": "37.463352",
+            "longitud": "-3.924473"
+         },
+         {
+            "idCalle": "16",
+            "nombreCalle": "Angustias",
+            "latitud": "37.463072",
+            "longitud": "-3.924442"
+         }
+      ],
+      "novedades": "El Paso de Misterio de Entrada de Jesús en Jerusalén, estrenará parihuela nueva en madera, para que las Imágenes que conforman dicho Paso de Misterio vayan con más espacios entre ellas y para mejorar su visualización.  <br/><br/>El Paso de Palio de Nuestra Señora de la Estrella, estrenará el Manto completamente terminado, bordado por nuestro querido Hermano D. Pedro Gálvez Ramírez.",
+      "interes": "Destaca a lo largo de la procesión su vistoso paso por el paseo de los Álamos, o el paso de la cofradía por la estrechez del pradillo."
+   },
+   {
+      "id": "2",
+      "name": "Oración y Esperanza",
+      "fullname": "Cofradía de Penitencia de Nuestro Padre Jesús en la Oración en el Huerto de los Olivos y María Santísima de la Esperanza",
+      "casa": "Iglesia de Consolación",
+      "dia": "3",
+      "hora": "20:00",
+      "historia": "Se trata de una cofradía relativamente joven, que irrumpió en la renovada Semana Santa alcalaína en los años 80. Concretamente, en 1986 realizó su primera salida procesional, de una forma muy precaria, pero apuntando que tenía la intención de consolidar el Martes Santo como un momento importante de la Semana Mayor, faena en la que todavía está trabajando. A pesar de esa juventud, su origen se remonta al siglo XVI, pasando por momentos de brillantez y declive, con varias disoluciones, la última de ellas en los años cincuenta del siglo XX. <br/><br/> El misterio, compuesto por Jesús Orando en el Huerto y un angel, fue realizado por Jacinto Higueras en 1950 y la Virgen de la Esperanza es obra del prieguense Manuel Cubero en el año 1986 y restaurada posteriormente por Enrique Ruiz. <br/><br/> Los pasos son portados a trabajadera doble (misterio) y costal (palio), siendo esta la cofradía que innovó en la ciudad esta forma de portar sus imágenes, ya recogida en sus proyectos de 1950 y que dan una brillantez especial a su desfile procesional. <br/><br/> La Virgen de la Esperanza es peculiar en esta cofradía también por el recorrido tan singular que realiza, ya que es la única que se adentra en el casco más antiguo y estrecho del pueblo: la Tejuela, además de la salida y y entrada de las imágenes a su templo, lo realizan sus costaleros de rodillas y “a gatas” debido a las dimensiones de los mismos. <br/><br/> Su Agrupación Musical surge el 8 de diciembre del 95, apadrinada por la Redención de Sevilla (en junio de 2001). En un primer momento (principios de los 90) se acuerda conjuntamente con la Cofradía de la Humildad crear una agrupación conjunta formada solamente por “tambores roncos” que duró poco tiempo y que quedó finamente ubicada en la Cofradía de la Esperanza. Actúan por primera vez en el pregón del costalero del 96 con sólo 9 trompetas, 1 trombón y algunos instrumentos de percusión.",
+      "colores": "Portan túnica blanca y el morrión, fajín y capa verde.",
+      "pasos": [
+         {
+            "idPaso": "3",
+            "tipo": "Paso de misterio",
+            "nombrePaso": "Jesús Orando en el Huerto y ángel confortador de estilo de neobarroco."
+         },
+         {
+            "idPaso": "4",
+            "tipo": "Paso de palio",
+            "nombrePaso": "María Santísima de la Esperanza."
+         }
+      ],
+      "calles": [
+         {
+            "idCalle": "17",
+            "nombreCalle": "Compás de Consolación",
+            "latitud": "37.464649",
+            "longitud": "-3.924785"
+         },
+         {
+            "idCalle": "18",
+            "nombreCalle": "Carrera de las Mercedes",
+            "latitud": "37.464569",
+            "longitud": "-3.924844"
+         },
+         {
+            "idCalle": "18",
+            "nombreCalle": "Carrera de las Mercedes",
+            "latitud": "37.464279",
+            "longitud": "-3.924189"
+         },
+         {
+            "idCalle": "18",
+            "nombreCalle": "Carrera de las Mercedes",
+            "latitud": "37.464155",
+            "longitud": "-3.924039"
+         },
+         {
+            "idCalle": "19",
+            "nombreCalle": "Calle Alonso de Alcalá",
+            "latitud": "37.463922",
+            "longitud": "-3.924534"
+         },
+         {
+            "idCalle": "19",
+            "nombreCalle": "Calle Alonso de Alcalá",
+            "latitud": "37.463726",
+            "longitud": "-3.925017"
+         },
+         {
+            "idCalle": "20",
+            "nombreCalle": "Plaza Arcipreste de Hita",
+            "latitud": "37.463622",
+            "longitud": "-3.924940"
+         },
+         {
+            "idCalle": "21",
+            "nombreCalle": "Calle General Lastres",
+            "latitud": "37.463502",
+            "longitud": "-3.924856"
+         },
+         {
+            "idCalle": "21",
+            "nombreCalle": "Calle General Lastres",
+            "latitud": "37.463657",
+            "longitud": "-3.924528"
+         },
+         {
+            "idCalle": "22",
+            "nombreCalle": "Calle Angustias",
+            "latitud": "37.463169",
+            "longitud": "-3.924435"
+         },
+         {
+            "idCalle": "23",
+            "nombreCalle": "Calle Veracruz",
+            "latitud": "37.462723",
+            "longitud": "-3.924301"
+         },
+         {
+            "idCalle": "24",
+            "nombreCalle": "Carrera de las Mercedes",
+            "latitud": "37.463147",
+            "longitud": "-3.923198"
+         },
+         {
+            "idCalle": "24",
+            "nombreCalle": "Carrera de las Mercedes",
+            "latitud": "37.464324",
+            "longitud": "-3.924279"
+         },
+         {
+            "idCalle": "25",
+            "nombreCalle": "Calle Santo Domingo de Silos",
+            "latitud": "37.464518",
+            "longitud": "-3.924692"
+         },
+         {
+            "idCalle": "25",
+            "nombreCalle": "Calle Santo Domingo de Silos",
+            "latitud": "37.465003",
+            "longitud": "-3.923847"
+         },
+         {
+            "idCalle": "26",
+            "nombreCalle": "Calle Antón Alcalá",
+            "latitud": "37.465755",
+            "longitud": "-3.923837"
+         },
+         {
+            "idCalle": "27",
+            "nombreCalle": "Calle Guardia Castellanos",
+            "latitud": "37.465676",
+            "longitud": "-3.924657"
+         },
+         {
+            "idCalle": "28",
+            "nombreCalle": "Calle Tejuela",
+            "latitud": "37.465606",
+            "longitud": "-3.925390"
+         },
+         {
+            "idCalle": "28",
+            "nombreCalle": "Calle Tejuela",
+            "latitud": "37.464697",
+            "longitud": "-3.925078"
+         },
+         {
+            "idCalle": "29",
+            "nombreCalle": "Compás de Consolación",
+            "latitud": "37.464616",
+            "longitud": "-3.924907"
+         }
+      ],
+      "novedades": "Estreno de 4 dalmática en brocado rojo y oro para el cuerpo de acólitos del paso de misterio. <br/><br/> Estreno de 4 dalmática en brocado blanco roto y oro para el cuerpo de acólitos del paso de palio. <br/><br/> Estreno del dorado de la crestería frontal y trasera del paso de misterio.",
+      "interes": "El paso de la cofradía por las calles de su barrio destacando el giro en la calle Horno hacia la calle Gala. Así como la salida y entrada del paso de palio por la pequeña puerta de Consolación, donde los costaleros tienen que salir a gatas."
+   },
+   {
+      "id": "3",
+      "name": "Vía Crucis",
+      "fullname": "Hermandad del Santísimo Cristo de la Salud",
+      "casa": "Iglesia de San Juan",
+      "dia": "4",
+      "hora": "21:00",
+      "historia": "Ligada en sus orígenes a la ermita de San Blas, hay referencias en ella de una imagen del Cristo de la Salud, que estaba ligada a la familia de los Garrido Espinosa de los Monteros. Un miembro de ella, en el año 1730, donó como manda testamentaria trescientos ducados para el camarín del Cristo Crucificado de la Salud. A partir de este momento, se multiplican los donativos y el cura concedió por el 1750 varias fincas con el fin de celebrarse la fiesta de dicha advocación. Debió de calar esta entre los jornaleros y campesinos que la devoción a esta imagen creció y se fundó una hermandad en torno a ella en 1771. <br/><br/> En los años 30 del siglo XX, al trasladarse la imagen a la iglesia de San Juan también estableció allí su sede la cofradía hasta el presente año, cooperando en la reconstrucción de la iglesia y el fomento del culto para todo el barrio. La imagen del Cristo de la Salud fue destruida en la Guerra Civil y se renovó en el año 1939 por una bella talla, obra de José Gabriel Martín Simón y que fue restaurada en 1997 por el taller de Cambil Trujillo. <br/><br/> En el año 1949 procesiona por primera vez en la Semana Santa junto con la cofradía de la Virgen de las Angustias, sin haber faltado nunca en las manifestaciones pasionales, de la tarde del Viernes Santo, así como en la procesión del Via Crucis, que se hacía por los años cincuenta y se renovó en el año 1970.",
+      "colores": "-",
+      "pasos": [
+         {
+            "idPaso": "5",
+            "tipo": "Sin paso",
+            "nombrePaso": "El Santísimo Cristo de la Salud procesiona sobre unas andas."
+         }
+    ],
+      "calles": [
+         {
+            "idCalle": "32",
+            "nombreCalle": "Placeta de San Blas",
+            "latitud": "37.460050",
+            "longitud": "-3.927424"
+         },
+         {
+            "idCalle": "33",
+            "nombreCalle": "Calle Mazuelos",
+            "latitud": "37.460383",
+            "longitud": "-3.927537"
+         },
+         {
+            "idCalle": "33",
+            "nombreCalle": "Calle Mazuelos",
+            "latitud": "37.461280",
+            "longitud": "-3.928324"
+         },
+         {
+            "idCalle": "34",
+            "nombreCalle": "Parque Fortaleza de la Mota",
+            "latitud": "37.4613497",
+            "longitud": "-3.9289911"
+         },
+         {
+            "idCalle": "35",
+            "nombreCalle": "Junto al Pósito",
+            "latitud": "37.461806",
+            "longitud": "-3.929963"
+         },
+         {
+            "idCalle": "36",
+            "nombreCalle": "El Albaicín",
+            "latitud": "37.460285",
+            "longitud": "-3.928839"
+         },
+         {
+            "idCalle": "37",
+            "nombreCalle": "Plaza Baja",
+            "latitud": "37.460048",
+            "longitud": "-3.929073"
+         },
+         {
+            "idCalle": "38",
+            "nombreCalle": "Junto a la Alcazaba",
+            "latitud": "37.460524",
+            "longitud": "-3.929529"
+         },
+         {
+            "idCalle": "39",
+            "nombreCalle": "Pórtico Santa María la Mayor",
+            "latitud": "37.459759",
+            "longitud": "-3.929661"
+         },
+         {
+            "idCalle": "40",
+            "nombreCalle": "Capilla del Deán",
+            "latitud": "37.459508",
+            "longitud": "-3.929060"
+         },
+         {
+            "idCalle": "41",
+            "nombreCalle": "Puerta de la Imagen",
+            "latitud": "37.460233",
+            "longitud": "-3.928818"
+         },
+         {
+            "idCalle": "42",
+            "nombreCalle": "Puerta de las Lanzas",
+            "latitud": "37.460820",
+            "longitud": "-3.929110"
+         },
+         {
+            "idCalle": "43",
+            "nombreCalle": "Calle Mazuelos",
+            "latitud": "37.4613546",
+            "longitud": "-3.9289565"
+         },
+         {
+            "idCalle": "44",
+            "nombreCalle": "Convento de las Trinitarias",
+            "latitud": "37.462025",
+            "longitud": "-3.928481"
+         },
+         {
+            "idCalle": "45",
+            "nombreCalle": "Iglesia de San Juan",
+            "latitud": "37.461492",
+            "longitud": "-3.927686"
+         }
+      ],
+      "novedades": "-",
+      "interes": "El cortejo en las entrañas de la fortaleza de la Mota, la iluminación de las antorchas en el entorno crean imágenes únicas."
+   },
+   {
+      "id": "4",
+      "name": "Apóstoles",
+      "fullname": "Hermandad de Penitencia de los Apóstoles y Discípulos de Jesús",
+      "casa": "Iglesia de las Angustias",
+      "dia": "5",
+      "hora": "18:45",
+      "historia": "Formaban una hermandad que llegó a tener sus propios estatutos junto con los de los Evangelistas, que fueron aprobados en el siglo XVIII. Sin embargo, el paso proviene de años anteriores, en los que todos sus miembros, vestidos de túnicas, solían desfilar en el año 1664, portaban “Los instrumentos de Pasión”. Es una hermandad que se ha mantenido a lo largo de la historia y, aunque sus actos de hermandad suelen ser sencillos, el acompañamiento al Maestro en las procesiones formando un grupo definido con túnicas moradas, estolas floreadas, rostrillos ypelucas negras, es una nota de la Semana Santa de Alcalá la Real. <br/><br/> La Mesa, representativa del Señor con el pequeño Cáliz de hojalata y los panes en la noche del Jueves Santo, el acompañamiento a Jesús en la mañana del Viernes Santo con todos sus símbolos y mostrando el desprecio a Judas, y la reafirmación de su Fe mediante las cartelas de los distintos versículos del Credo en el Entierro de Cristo, son los actos que mejor definen a esta hermandad. <br/><br/> Esta hermandad se independizó de la Real Cofradía del Dulce Nombre de Jesús en el año 1990 y hoy es considerada como Grupo Parroquial de la Iglesia de Sto. Domingo de Silos, siendo entonces creciente el número de hermanos contando hoy con más de 100 y, gracias a sus muchos esfuerzos, han renovado completamente la imagen de esta, pero siempre conservando lo tradicional, lo antiguo, renovando por completos su vestuario.",
+      "colores": "Los apóstoles tienen túnicas moradas con bandas amarillas en el faldón y puños, cordón amarillo y manto con estampado floreado. Juillas viste túnica marfil con manto rojo. Los discípulos portan túnica y morrión blanco con manto granate y van coronados",
+      "pasos": [
+         {
+            "idPaso": "6",
+            "tipo": "Santa Mesa",
+            "nombrePaso": []
+         },
+         {
+            "idPaso": "7",
+            "tipo": "Santa Cruz de los Discípulos",
+            "nombrePaso": "La Santa Cruz de los Discípulos, representa a Nuestro Señor Jesucristo y junto a los Discípulos representa el momento en que \"Después de esto, designo el Señor a otros 72, y los envió de dos en dos delante de sí, a todas las ciudades y sitios a donde él había de ir.\""
+         }
+      ],
+      "calles": [
+         {
+            "idCalle": "46",
+            "nombreCalle": "Compás de Consolación",
+            "latitud": "37.464616",
+            "longitud": "-3.924907"
+         },
+         {
+            "idCalle": "47",
+            "nombreCalle": "Calle Real",
+            "latitud": "37.464152",
+            "longitud": "-3.925648"
+         },
+         {
+            "idCalle": "47",
+            "nombreCalle": "Calle Real",
+            "latitud": "37.463739",
+            "longitud": "-3.926364"
+         },
+         {
+            "idCalle": "48",
+            "nombreCalle": "Calle Martínez Montañés",
+            "latitud": "37.462731",
+            "longitud": "-3.925859"
+         },
+         {
+            "idCalle": "49",
+            "nombreCalle": "Calle Miguel de Cervantes",
+            "latitud": "37.461732",
+            "longitud": "-3.925484"
+         },
+         {
+            "idCalle": "49",
+            "nombreCalle": "Calle Miguel de Cervantes",
+            "latitud": "37.462130",
+            "longitud": "-3.924137"
+         },
+         {
+            "idCalle": "50",
+            "nombreCalle": "Calle Álamos",
+            "latitud": "37.462229",
+            "longitud": "-3.922719"
+         },
+         {
+            "idCalle": "50",
+            "nombreCalle": "Calle Álamos",
+            "latitud": "37.462602",
+            "longitud": "-3.922628"
+         },
+         {
+            "idCalle": "51",
+            "nombreCalle": "Carrera de las Mercedes",
+            "latitud": "37.463578",
+            "longitud": "-3.923515"
+         },
+         {
+            "idCalle": "51",
+            "nombreCalle": "Carrera de las Mercedes",
+            "latitud": "37.464475",
+            "longitud": "-3.924543"
+         },
+         {
+            "idCalle": "52",
+            "nombreCalle": "Compás de Consolación",
+            "latitud": "37.464683",
+            "longitud": "-3.924737"
+         }
+      ],
+      "novedades": "-",
+      "interes": "-"
+   },
+   {
+      "id": "5",
+      "name": "Ecce-Homo",
+      "fullname": "Hermandad del Señor del Ecce-Homo y Jesús en la Columna",
+      "casa": "Iglesia de Consolación",
+      "dia": "5",
+      "hora": "20:00",
+      "historia": "La cofradía de la Santa Vera Cruz fue la base de esta hermandad al tener incorporada en 1550 la cuadrilla de Jesús en la Columna dentro de su organización cofrade, formando parte de ella por medio de una hermandad, cuadrilla o paso que portó el gallardete y la imagen del Señor de la Columna. <br/><br/> Esta hermandad desarrolló, por aquellos tiempos y durante sus manifestaciones públicas, los pasos de los Ángeles, Abraham, Judíos, Sayones, túnica y Sentencia con la tropa de la ciudad, que se convertía en un elemento híbrido y a la vez que compañía de soldados y hermandad catequética. <br/><br/> Más tarde, en torno a la mitad del siglo XVIII, del seno de la Cofradía de Jesús nazareno nació otra hermandad, con nombre del Señor del Ecce-Homo. Varios pasos del Antiguo Testamento y de la pasión de Cristo se realizaban dentro de la procesión matutina del Viernes Santo: El Lazarillo y Longinos, Reos, Simón de Cirineo, Los Judíos, Los Profetas, El Rey David y Judas… A principios del siglo XIX, y a la sazón de la desamortización de Manuel Godoy, desaparecieron muchas cofradías y hermandades, y estos dos grupos se incluyeron dentro de la Cofradía del Dulce Nombre de Jesús, aunque de forma decadente. <br/><br/> Recientemente, en marzo del 2000, el Obispo de Jaén aprobó sus estatutos y los erigió Hermandad, separándolas oficialmente de su cofradía matriz e incorporándose de pleno al mundo cofrade sin complejo alguno, con sus estatutos, y mostrando un claro ejemplo de la buena voluntad de estar abiertos para la renovación de las hermandades sin perder la identidad.",
+      "colores": "Judíos, romanos y verdugos con traje y coleto rojo y verde. Tropa de la ciudad con rostrillos peto amarillo y mangas damasco, bandas, calzón y botines carmesíes y medias blancas.",
+      "pasos": [
+        {
+            "idPaso": "8",
+            "tipo": "Titular",
+            "nombrePaso": "Jesús de la Columna"
+        }
+    ],
+      "calles": [
+        {
+            "idCalle": "46",
+            "nombreCalle": "Compás de Consolación",
+            "latitud": "37.464616",
+            "longitud": "-3.924907"
+         },
+         {
+            "idCalle": "47",
+            "nombreCalle": "Calle Real",
+            "latitud": "37.464152",
+            "longitud": "-3.925648"
+         },
+         {
+            "idCalle": "47",
+            "nombreCalle": "Calle Real",
+            "latitud": "37.463739",
+            "longitud": "-3.926364"
+         },
+         {
+            "idCalle": "48",
+            "nombreCalle": "Calle Martínez Montañés",
+            "latitud": "37.462731",
+            "longitud": "-3.925859"
+         },
+         {
+            "idCalle": "49",
+            "nombreCalle": "Calle Miguel de Cervantes",
+            "latitud": "37.461732",
+            "longitud": "-3.925484"
+         },
+         {
+            "idCalle": "49",
+            "nombreCalle": "Calle Miguel de Cervantes",
+            "latitud": "37.462130",
+            "longitud": "-3.924137"
+         },
+         {
+            "idCalle": "50",
+            "nombreCalle": "Calle Álamos",
+            "latitud": "37.462229",
+            "longitud": "-3.922719"
+         },
+         {
+            "idCalle": "50",
+            "nombreCalle": "Calle Álamos",
+            "latitud": "37.462602",
+            "longitud": "-3.922628"
+         },
+         {
+            "idCalle": "51",
+            "nombreCalle": "Carrera de las Mercedes",
+            "latitud": "37.463578",
+            "longitud": "-3.923515"
+         },
+         {
+            "idCalle": "51",
+            "nombreCalle": "Carrera de las Mercedes",
+            "latitud": "37.464475",
+            "longitud": "-3.924543"
+         },
+         {
+            "idCalle": "52",
+            "nombreCalle": "Compás de Consolación",
+            "latitud": "37.464683",
+            "longitud": "-3.924737"
+         }
+      ],
+      "novedades": "-",
+      "interes": "Las representaciones que realizan del paso de la túnica y sus pregones en las diversas esquinas del recorrido."
+   },
+   {
+      "id": "6",
+      "name": "Humildad y Dolores",
+      "fullname": "Muy Antigua Hermandad del Señor de la Humildad y María Santísima de los Dolores",
+      "casa": "Iglesia de Consolación",
+      "dia": "5",
+      "hora": "21:00",
+      "historia": "Aunque en 1641 existía una cofradía que contaba con el Señor de la Humildad como uno de sus titulares, en 1688 fue disuelta. Años más tarde, el diez de marzo de 1693 es fundada la Cofradía del Santo Cristo de la Humildad, teniendo su sede canónica en el convento e iglesia de Consolación y obteniendo el patronazgo de la capilla mayor de la citada iglesia(hoy la de Jesús Nazareno). <br/><br/> Durante el año 1781, en el franciscano convento de Consolación, tiene lugar la fundación de la Esclavitud de la Virgen de los Dolores y, como quiera que la imagen dolorosa era propiedad de los de la Humildad, comienza la colaboración entre ambas instituciones. En 1928, ante lo deslucido de la procesión del Jueves Santo se produce una reorganización de la cofradía, pero la guerra civil de 1936 termina con ese intento y con la destrucción de ambas imágenes y la mayor parte del patrimonio. <br/><br/> En marzo de 1939 vuelve a venerarse en Consolación a la Virgen de los Dolores obra de Fernández Andes y 1948 es el año en que un grupo de jóvenes alcalaínos entusiastas de sus tradiciones seculares reorganizan la maltrecha cofradía, ahora bajo la denominación de Muy Antigua Hermandad del Señor de la Humildad y María Santísima de los Dolores. Encargandose a Jose Gabriel Martín Simón la imagen del Señor de la Humildad y a Miguel Bejerano la Virgen de la Soledad de Nuestra Señora.",
+      "colores": "Portan túnica blanca y el morrión, fajín y capa de color rojo.",
+      "pasos": [
+         {
+            "idPaso": "9",
+            "tipo": "Paso de misterio",
+            "nombrePaso": "Señor de la Humildad."
+         },
+         {
+            "idPaso": "10",
+            "tipo": "Paso de palio",
+            "nombrePaso": "María Santísima de los Dolores."
+         }
+      ],
+      "calles": [
+        {
+            "idCalle": "46",
+            "nombreCalle": "Compás de Consolación",
+            "latitud": "37.464616",
+            "longitud": "-3.924907"
+         },
+         {
+            "idCalle": "47",
+            "nombreCalle": "Calle Real",
+            "latitud": "37.464152",
+            "longitud": "-3.925648"
+         },
+         {
+            "idCalle": "47",
+            "nombreCalle": "Calle Real",
+            "latitud": "37.463739",
+            "longitud": "-3.926364"
+         },
+         {
+            "idCalle": "48",
+            "nombreCalle": "Calle Martínez Montañés",
+            "latitud": "37.462731",
+            "longitud": "-3.925859"
+         },
+         {
+            "idCalle": "49",
+            "nombreCalle": "Calle Miguel de Cervantes",
+            "latitud": "37.461732",
+            "longitud": "-3.925484"
+         },
+         {
+            "idCalle": "49",
+            "nombreCalle": "Calle Miguel de Cervantes",
+            "latitud": "37.462130",
+            "longitud": "-3.924137"
+         },
+         {
+            "idCalle": "50",
+            "nombreCalle": "Calle Álamos",
+            "latitud": "37.462229",
+            "longitud": "-3.922719"
+         },
+         {
+            "idCalle": "50",
+            "nombreCalle": "Calle Álamos",
+            "latitud": "37.462602",
+            "longitud": "-3.922628"
+         },
+         {
+            "idCalle": "51",
+            "nombreCalle": "Carrera de las Mercedes",
+            "latitud": "37.463578",
+            "longitud": "-3.923515"
+         },
+         {
+            "idCalle": "51",
+            "nombreCalle": "Carrera de las Mercedes",
+            "latitud": "37.464475",
+            "longitud": "-3.924543"
+         },
+         {
+            "idCalle": "52",
+            "nombreCalle": "Compás de Consolación",
+            "latitud": "37.464683",
+            "longitud": "-3.924737"
+         }
+      ],
+      "novedades": "Acompañarán a la Virgen de los Dolores la agrupación musical Virgen de la Esperanza. <br/><br/> Acompañarán al Señor de la Humildad su banda de tambores roncos, la cual sigue aumentando el número de componentes. <br/><br/> Ampliación del número de faroles de mano para alumbrar a las Sagradas Imágenes. <br/><br/> Restauración de las últimas cabezas de varal del trono del Señor de la Humildad.",
+      "interes": "El paso de la Hermandad por la calle Martínez Montañés, la estrechez de esta calle junto a la tenue iluminación le da un toque único para los cofrades."
+   },
+   {
+      "id": "7",
+      "name": "Gallardete",
+      "fullname": "Hermandad del Señor del Ecce-Homo y Jesús en la Columna",
+      "casa": "Iglesia de Consolación",
+      "dia": "6",
+      "hora": "08:45",
+      "historia": "Aunque no hay constancia escrita de su creación, se cree que fue fundada en el siglo XVI, de la mano y a la par de la cofradía del Dulce Nombre de Jesús y Santa Caridad, de la que fue filial; aunque siempre se ha mantenido un cierto grado de autonomía. <br/><br/> En 1931 se aprueba un reglamento de régimen interno que estuvo vigente hasta el 7 de marzo de 1986, cuando se aprueba en asamblea general la emancipación de la cofradía matriz. <br/><br/> A partir de entonces comienzan las actuaciones destinadas a conseguir el reconocimiento de la hermandad por medio de la erección canónica hasta que, diez años después, en abril de 1996, el Sr. Obispo D. Santiago García Aracil aprueba sus estatutos. <br/><br/> Su titular representa a Jesús en su tercera caída camino del Calvario, de autor anónimo, y se desconoce el año de su realización. Su desfile procesional se enriquece con una cruz guía, realizada en madera tallada y calada dorada en pan de oro del año de 1954, donada por D. José Garnica Salazar, y un Via Crucis del mismo año realizado por D. Rafael Revelles López, portado en catorce cornucopias de madera tallada y dorada en pan de oro.",
+      "colores": "Portan túnica de sarga morada, con botonadura amarilla, capa y morrión de raso morado con vueltas color oro viejo y escudo de la hermandad bordado. Cíngulo de cordón amarillo con terminación en borlas.",
+      "pasos": [
+        {
+            "idPaso": "11",
+            "tipo": "Titular",
+            "nombrePaso": "Lámina que representa a Jesús en la tercera caída camino del Calvario."
+         }
+        ],
+      "calles": [
+         {
+            "idCalle": "67",
+            "nombreCalle": "Calle Santo Tomás de Aquino",
+            "latitud": "37.458011",
+            "longitud": "-3.921171"
+         },
+         {
+            "idCalle": "68",
+            "nombreCalle": "Calle Figueras",
+            "latitud": "37.458487",
+            "longitud": "-3.921279"
+         },
+         {
+            "idCalle": "68",
+            "nombreCalle": "Calle Figueras",
+            "latitud": "37.458358",
+            "longitud": "-3.922267"
+         },
+         {
+            "idCalle": "69",
+            "nombreCalle": "Avenida de Andalucía",
+            "latitud": "37.460322",
+            "longitud": "-3.922681"
+         },
+         {
+            "idCalle": "70",
+            "nombreCalle": "Calle Álamos",
+            "latitud": "37.462158",
+            "longitud": "-3.922719"
+         },
+         {
+            "idCalle": "70",
+            "nombreCalle": "Calle Álamos",
+            "latitud": "37.462550",
+            "longitud": "-3.922522"
+         },
+         {
+            "idCalle": "71",
+            "nombreCalle": "Carrera de las Mercedes",
+            "latitud": "37.463754",
+            "longitud": "-3.923675"
+         },
+         {
+            "idCalle": "72",
+            "nombreCalle": "Compás de Consolación",
+            "latitud": "37.464675",
+            "longitud": "-3.924729"
+         },
+         {
+            "idCalle": "73",
+            "nombreCalle": "Calle Real",
+            "latitud": "37.463874",
+            "longitud": "-3.926088"
+         },
+         {
+            "idCalle": "73",
+            "nombreCalle": "Calle Real",
+            "latitud": "37.463504",
+            "longitud": "-3.926784"
+         },
+         {
+            "idCalle": "74",
+            "nombreCalle": "Calle Rosario",
+            "latitud": "37.462436",
+            "longitud": "-3.926943"
+         },
+         {
+            "idCalle": "75",
+            "nombreCalle": "Calle Veracruz",
+            "latitud": "37.461914",
+            "longitud": "-3.927141"
+         },
+         {
+            "idCalle": "75",
+            "nombreCalle": "Calle Veracruz",
+            "latitud": "37.462420",
+            "longitud": "-3.925056"
+         },
+         {
+            "idCalle": "76",
+            "nombreCalle": "Carrera de las Mercedes",
+            "latitud": "37.463144",
+            "longitud": "-3.923206"
+         },
+         {
+            "idCalle": "76",
+            "nombreCalle": "Carrera de las Mercedes",
+            "latitud": "37.464248",
+            "longitud": "-3.924188"
+         },
+         {
+            "idCalle": "77",
+            "nombreCalle": "Compás de Consolación",
+            "latitud": "37.464684",
+            "longitud": "-3.924737"
+         }
+      ],
+      "novedades": "-",
+      "interes": "La salida y entrada del Gallardete en la casa de su Hermano Mayor Depositario."
+   },
+   {
+      "id": "8",
+      "name": "Ecce-Homo",
+      "fullname": "Hermandad del Señor del Ecce-Homo y Jesús en la Columna",
+      "casa": "Iglesia de Consolación",
+      "dia": "6",
+      "hora": "09:15",
+      "historia": "La cofradía de la Santa Vera Cruz fue la base de esta hermandad al tener incorporada en 1550 la cuadrilla de Jesús en la Columna dentro de su organización cofrade, formando parte de ella por medio de una hermandad, cuadrilla o paso que portó el gallardete y la imagen del Señor de la Columna. <br/><br/> Esta hermandad desarrolló, por aquellos tiempos y durante sus manifestaciones públicas, los pasos de los Ángeles, Abraham, Judíos, Sayones, túnica y Sentencia con la tropa de la ciudad, que se convertía en un elemento híbrido y a la vez que compañía de soldados y hermandad catequética. <br/><br/> Más tarde, en torno a la mitad del siglo XVIII, del seno de la Cofradía de Jesús nazareno nació otra hermandad, con nombre del Señor del Ecce-Homo. Varios pasos del Antiguo Testamento y de la pasión de Cristo se realizaban dentro de la procesión matutina del Viernes Santo: El Lazarillo y Longinos, Reos, Simón de Cirineo, Los Judíos, Los Profetas, El Rey David y Judas… A principios del siglo XIX, y a la sazón de la desamortización de Manuel Godoy, desaparecieron muchas cofradías y hermandades, y estos dos grupos se incluyeron dentro de la Cofradía del Dulce Nombre\tde Jesús, aunque de forma decadente. <br/><br/> Recientemente, en marzo del 2000, el Obispo de Jaén aprobó sus estatutos y los erigió en Hermandad, separándolas oficialmente de su cofradía matriz e incorporándose de pleno al mundo cofrade sin complejo alguno, con sus estatutos, y mostrando un claro ejemplo de la buena voluntad de estar abiertos para la renovación de las hermandades sin perder la identidad.",
+      "colores": "Judíos, romanos y verdugos con traje y coleto rojo y verde. Tropa de la ciudad con rostrillos peto amarillo y mangas damasco, bandas, calzón y botines carmesíes y medias blancas.",
+      "pasos": [
+		{
+            "idPaso": "12",
+            "tipo": "Titular",
+            "nombrePaso": "Ecce-Homo"
+        }
+      ],
+      "calles": [
+         {
+            "idCalle": "72",
+            "nombreCalle": "Compás de Consolación",
+            "latitud": "37.464675",
+            "longitud": "-3.924729"
+         },
+         {
+            "idCalle": "73",
+            "nombreCalle": "Calle Real",
+            "latitud": "37.463874",
+            "longitud": "-3.926088"
+         },
+         {
+            "idCalle": "73",
+            "nombreCalle": "Calle Real",
+            "latitud": "37.463504",
+            "longitud": "-3.926784"
+         },
+         {
+            "idCalle": "74",
+            "nombreCalle": "Calle Rosario",
+            "latitud": "37.462436",
+            "longitud": "-3.926943"
+         },
+         {
+            "idCalle": "75",
+            "nombreCalle": "Calle Veracruz",
+            "latitud": "37.461914",
+            "longitud": "-3.927141"
+         },
+         {
+            "idCalle": "75",
+            "nombreCalle": "Calle Veracruz",
+            "latitud": "37.462420",
+            "longitud": "-3.925056"
+         },
+         {
+            "idCalle": "76",
+            "nombreCalle": "Carrera de las Mercedes",
+            "latitud": "37.463144",
+            "longitud": "-3.923206"
+         },
+         {
+            "idCalle": "76",
+            "nombreCalle": "Carrera de las Mercedes",
+            "latitud": "37.464248",
+            "longitud": "-3.924188"
+         },
+         {
+            "idCalle": "77",
+            "nombreCalle": "Compás de Consolación",
+            "latitud": "37.464684",
+            "longitud": "-3.924737"
+         }
+      ],
+      "novedades": "-",
+      "interes": "Las representaciones que realizan del paso de la venta del Señor y sus pregones en las diversas esquinas del recorrido."
+   },
+   {
+      "id": "9",
+      "name": "Jesús Nazareno",
+      "fullname": "Real Cofradía del Dulce Nombre de Jesús y Santa Caridad",
+      "casa": "Iglesia de Consolación",
+      "dia": "6",
+      "hora": "11:00",
+      "historia": "Las Cofradías del Dulce Nombre de Jesús nacen en el seno de la Orden de los Predicadores y fue en febrero de 1597 cuando son aprobadas las primeras Constituciones de esta cofradía. En un principio se veneraba la imagen de un niño Jesús, pero ya desde el 1609 se tiene constancia de que se procesionaba la imagen de Jesús Nazareno junto a la imagen de la Madre de Dios del Rosario, en sus misterios dolorosos. Más adelante, en el 1625, se procesionaban también la imagen de S. Juan Evangelista y en el año 1665 se uniría la imagen de la Mujer Verónica. Por último, en el siglo XIX, se procesionaría la imagen del Cristo Yacente. <br/><br/> Aquellas primeras constituciones estarían vigentes hasta el año 1805, fecha en la que se incautaron los bienes a las cofradías y, el Rey Fernando VII aprueba nuevas Constituciones el 14 de abril de 1808, añadiéndose al nombre de “Dulce Nombre de Jesús” el título de “Santa Caridad”. <br/><br/> A primeros del siglo XX se aprueban nuevas constituciones ofreciéndole el cargo de Hermano Mayor perpetuo a su majestad el Rey D. Alfonso XIII, continuándose con el título de real como ya se venía haciendo con anterioridad. Como consecuencia de la Guerra Civil, el 19 de agosto de 1936 se destruyen nuestras imágenes de Jesús Nazareno, Dulce Nombre de Jesús, Madre de Dios del Rosario, San Juan Evangelista, sólo se salvó la mujer Verónica. Al término de la Guerra, la Cofradía y algunos devotos acordaron restituir las imágenes destruidas, destacando como benefactor D. Francisco Serrano del Mármol. <br/><br/> Durante muchos años, la cofradía compartió la imagen de la Virgen de los Dolores con la Hermandad del Señor de la Humildad, pero desde el 1985 se procesiona con una imagen de la Virgen del Rosario de la propiedad de las madres Trinitarias. El resto de imagenes de la hermandad son Jesús Nazareno obra de Fernández Andes, la Mujer Verónica que como ya hemos indicado se conserva la primitiva del siglo XVIII, San Juan Evangelista de Daniel Gutiérrez y Jesús Yacente de Jacinto Higueras.",
+      "colores": "Túnica y morrión morados, cíngulo y capa marfil y las vueltas en morado.",
+      "pasos": [
+         {
+            "idPaso": "13",
+            "tipo": "Paso de misterio",
+            "nombrePaso": "Jesús Nazareno"
+         },
+         {
+            "idPaso": "14",
+            "tipo": "Paso",
+            "nombrePaso": "San Juan Evangelista"
+         },
+         {
+            "idPaso": "15",
+            "tipo": "Paso",
+            "nombrePaso": "Mujer Verónica"
+         },
+         {
+            "idPaso": "16",
+            "tipo": "Paso de palio",
+            "nombrePaso": "La Madre de Dios del Rosario (propiedad de las RRMM Trinitarias)"
+         }
+      ],
+      "calles": [
+         {
+            "idCalle": "72",
+            "nombreCalle": "Compás de Consolación",
+            "latitud": "37.464675",
+            "longitud": "-3.924729"
+         },
+         {
+            "idCalle": "73",
+            "nombreCalle": "Calle Real",
+            "latitud": "37.463874",
+            "longitud": "-3.926088"
+         },
+         {
+            "idCalle": "73",
+            "nombreCalle": "Calle Real",
+            "latitud": "37.463504",
+            "longitud": "-3.926784"
+         },
+         {
+            "idCalle": "74",
+            "nombreCalle": "Calle Rosario",
+            "latitud": "37.462436",
+            "longitud": "-3.926943"
+         },
+         {
+            "idCalle": "75",
+            "nombreCalle": "Calle Veracruz",
+            "latitud": "37.461914",
+            "longitud": "-3.927141"
+         },
+         {
+            "idCalle": "75",
+            "nombreCalle": "Calle Veracruz",
+            "latitud": "37.462420",
+            "longitud": "-3.925056"
+         },
+         {
+            "idCalle": "76",
+            "nombreCalle": "Carrera de las Mercedes",
+            "latitud": "37.463144",
+            "longitud": "-3.923206"
+         },
+         {
+            "idCalle": "76",
+            "nombreCalle": "Carrera de las Mercedes",
+            "latitud": "37.464248",
+            "longitud": "-3.924188"
+         },
+         {
+            "idCalle": "77",
+            "nombreCalle": "Compás de Consolación",
+            "latitud": "37.464684",
+            "longitud": "-3.924737"
+         }
+      ],
+      "novedades": "Estreno de la 3ª fase de la restauración del paso de Nuestro Padre Jesús, consistentes en el cambio de la parihuela y varales del paso. <br/><br/> Dos nuevos varales para el palio de la Madre de Dios del Rosario.",
+      "interes": "La salida de la hermandad al Compás de Consolación así como su paso por la zona más alta del recorrido en las calles Rosario y Veracruz"
+   },
+   {
+      "id": "10",
+      "name": "Cristo de la Salud",
+      "fullname": "Hermandad del Santísimo Cristo de la Salud",
+      "casa": "Iglesia de San Juan",
+      "dia": "6",
+      "hora": "19:00",
+      "historia": "Ligada en sus orígenes a la ermita de San Blas, hay referencias en ella de una imagen del Cristo de la Salud, que estaba ligada a la familia de los Garrido Espinosa de los Monteros. Un miembro de ella, en el año 1730, donó como manda testamentaria trescientos ducados para el camarín del Cristo Crucificado de la Salud. A partir de este momento, se multiplican los donativos y el cura concedió por el 1750 varias fincas con el fin de celebrarse la fiesta de dicha advocación. Debió de calar esta entre los jornaleros y campesinos que la devoción a esta imagen creció y se fundó una hermandad en torno a ella en 1771. <br/><br/> En los años 30 del siglo XX, al trasladarse la imagen a la iglesia de San Juan también estableció allí su sede la cofradía hasta el presente año, cooperando en la reconstrucción de la iglesia y el fomento del culto para todo el barrio. La imagen del Cristo de la Salud fue destruida en la Guerra Civil y se renovó en el año 1939 por una bella talla, obra de José Gabriel Martín Simón y que fue restaurada en 1997 por el taller de Cambil Trujillo. <br/><br/> En el año 1949 procesiona por primera vez en la Semana Santa junto con la cofradía de la Virgen de las Angustias, sin haber faltado nunca en las manifestaciones pasionales, de la tarde del Viernes Santo, así como en la procesión del Via Crucis, que se hacía por los años cincuenta y se renovó en el año 1970.",
+      "colores": "Túnica negra, fajin, morrión y capa blanca.",
+      "pasos": [
+         {
+            "idPaso": "17",
+            "tipo": "Paso de misterio",
+            "nombrePaso": "Santísimo Cristo de la Salud."
+         }
+        ],
+      "calles": [
+         {
+            "idCalle": "91",
+            "nombreCalle": "Placeta de San Juan",
+            "latitud": "37.461396",
+            "longitud": "-3.927542"
+         },
+         {
+            "idCalle": "92",
+            "nombreCalle": "Calle Rosario",
+            "latitud": "37.461903",
+            "longitud": "-3.927176"
+         },
+         {
+            "idCalle": "93",
+            "nombreCalle": "Calle Veracruz",
+            "latitud": "37.462210",
+            "longitud": "-3.925701"
+         },
+         {
+            "idCalle": "94",
+            "nombreCalle": "Calle Veracruz (20:00)",
+            "latitud": "37.462722",
+            "longitud": "-3.924301"
+         },
+         {
+            "idCalle": "95",
+            "nombreCalle": "Carrera de las Mercedes",
+            "latitud": "37.463155",
+            "longitud": "-3.923205"
+         },
+         {
+            "idCalle": "95",
+            "nombreCalle": "Carrera de las Mercedes",
+            "latitud": "37.463920",
+            "longitud": "-3.923815"
+         },
+         {
+            "idCalle": "96",
+            "nombreCalle": "Calle General Lástres",
+            "latitud": "37.463502",
+            "longitud": "-3.924861"
+         },
+         {
+            "idCalle": "97",
+            "nombreCalle": "Plaza Arcipreste de Hita",
+            "latitud": "37.463630",
+            "longitud": "-3.924951"
+         },
+         {
+            "idCalle": "98",
+            "nombreCalle": "Calle Alonso de Alcalá",
+            "latitud": "37.463739",
+            "longitud": "-3.924981"
+         },
+         {
+            "idCalle": "99",
+            "nombreCalle": "Carrera de las Mercedes",
+            "latitud": "37.464155",
+            "longitud": "-3.924042"
+         },
+         {
+            "idCalle": "99",
+            "nombreCalle": "Carrera de las Mercedes",
+            "latitud": "37.464571",
+            "longitud": "-3.924814"
+         },
+         {
+            "idCalle": "100",
+            "nombreCalle": "Calle Real",
+            "latitud": "37.463904",
+            "longitud": "-3.926057"
+         },
+         {
+            "idCalle": "101",
+            "nombreCalle": "Calle Real",
+            "latitud": "37.463545",
+            "longitud": "-3.926703"
+         },
+         {
+            "idCalle": "102",
+            "nombreCalle": "Calle Rosario",
+            "latitud": "37.462193",
+            "longitud": "-3.927028"
+         },
+         {
+            "idCalle": "103",
+            "nombreCalle": "Placeta de San Juan",
+            "latitud": "37.461413",
+            "longitud": "-3.927513"
+         }
+      ],
+      "novedades": "Continúa el dorado de los costeros del paso.",
+      "interes": "El montaje y desmontaje de la imagen en su trono así como el encuentro con la Cofradía de Ntra Sra de las Angustias y la despedida."
+   },
+   {
+      "id": "11",
+      "name": "Virgen de las Angustias",
+      "fullname": "Cofradía de Nuestra Señora de las Angustias",
+      "casa": "Iglesia de las Angustias",
+      "dia": "6",
+      "hora": "19:45",
+      "historia": "Los inicios de esta cofradía se remontan a las primeras décadas del siglo XVII. De aquella época existe constancia de que la cofradía del Huerto y Humildad contaba entre sus gastos la adquisición en Granada de una imagen de Ntra. Sra. De las Angustias, posiblemente encargada al gran escultor Alonso de Mena. <br/><br/> Posteriormente existen archivos que hacen referencia a una nueva fundación de la cofradía en 1739, y es en 1746 se comienzan los cimientos de la obra de una ermita para la nueva titular de la hermandad de un solar próximo a la plaza pública. En 1936, durante la Guerra Civil española, se destruyó la antigua imagen de la cofradía, siendo la actual, obra de Gabriel Simón en el año 1939. <br/><br/> Un cambio profundo en esta cofradía se produjo en 1948 con la reorganización llevada a cabo, dando nuevas perspectivas a la misma, estableciéndose los desfiles procesionales en las tardes del Viernes Santo como hermandad penitencial. En los años de la postguerra hay que destacar la estrecha colaboración mantenida con la Hermandad del Stmo. Cristo de la Salud mostrada en la procesión conjunta de Semana Santa, y que en algún momento tuvo visos y hechos de unificación parcial. <br/><br/> Pero el mayor cambio se produjo en la nueva reorganización llevada a cabo en 1981, tras un largo letargo de casi veinte años. Este cambio se produjo por el empuje de un grupo de jóvenes, matrimonios en su mayoría, guiados por conseguir nuevos objetivos pero siguiendo en la misma línea y con las mismas ideas con la que se fundó.",
+      "colores": "Túnica negra, morrión y capa blanco y cíngulo de cuerda blanco.",
+      "pasos": [
+        {
+            "idPaso": "18",
+            "tipo": "Paso de palio",
+            "nombrePaso": "Dolorosa con Jesús yacente en sus manos."
+         }
+        ],
+      "calles": [
+         {
+            "idCalle": "104",
+            "nombreCalle": "Calle Angustias",
+            "latitud": "37.463069",
+            "longitud": "-3.924394"
+         },
+         {
+            "idCalle": "105",
+            "nombreCalle": "Calle Angustias (20:00)",
+            "latitud": "37.462745",
+            "longitud": "-3.924298"
+         },
+         {
+            "idCalle": "106",
+            "nombreCalle": "Calle Angustias",
+            "latitud": "37.462377",
+            "longitud": "-3.924189"
+         },
+         {
+            "idCalle": "107",
+            "nombreCalle": "Calle Miguel de Cervantes",
+            "latitud": "37.462142",
+            "longitud": "-3.924135"
+         },
+         {
+            "idCalle": "108",
+            "nombreCalle": "Calle Álamos",
+            "latitud": "37.462243",
+            "longitud": "-3.922697"
+         },
+         {
+            "idCalle": "108",
+            "nombreCalle": "Calle Álamos",
+            "latitud": "37.462583",
+            "longitud": "-3.922604"
+         },
+         {
+            "idCalle": "109",
+            "nombreCalle": "Carrera de las Mercedes",
+            "latitud": "37.463352",
+            "longitud": "-3.923351"
+         },
+         {
+            "idCalle": "109",
+            "nombreCalle": "Carrera de las Mercedes",
+            "latitud": "37.463922",
+            "longitud": "-3.923813"
+         },
+         {
+            "idCalle": "110",
+            "nombreCalle": "Calle General Lástres",
+            "latitud": "37.463508",
+            "longitud": "-3.924852"
+         },
+         {
+            "idCalle": "111",
+            "nombreCalle": "Plaza Arcipreste de Hita",
+            "latitud": "37.463627",
+            "longitud": "-3.924951"
+         },
+         {
+            "idCalle": "112",
+            "nombreCalle": "Calle Alonso de Alcalá",
+            "latitud": "37.463736",
+            "longitud": "-3.925001"
+         },
+         {
+            "idCalle": "113",
+            "nombreCalle": "Carrera de las Mercedes",
+            "latitud": "37.464156",
+            "longitud": "-3.924056"
+         },
+         {
+            "idCalle": "113",
+            "nombreCalle": "Carrera de las Mercedes",
+            "latitud": "37.464570",
+            "longitud": "-3.924782"
+         },
+         {
+            "idCalle": "114",
+            "nombreCalle": "Calle Real",
+            "latitud": "37.464094",
+            "longitud": "-3.925772"
+         },
+         {
+            "idCalle": "114",
+            "nombreCalle": "Calle Real",
+            "latitud": "37.463721",
+            "longitud": "-3.926358"
+         },
+         {
+            "idCalle": "115",
+            "nombreCalle": "Calle Martínez Montañés",
+            "latitud": "37.462907",
+            "longitud": "-3.925934"
+         },
+         {
+            "idCalle": "115",
+            "nombreCalle": "Calle Martínez Montañés",
+            "latitud": "37.462230",
+            "longitud": "-3.925652"
+         },
+         {
+            "idCalle": "116",
+            "nombreCalle": "Calle Veracruz",
+            "latitud": "37.462536",
+            "longitud": "-3.924766"
+         },
+         {
+            "idCalle": "117",
+            "nombreCalle": "Calle Angustias",
+            "latitud": "37.462755",
+            "longitud": "-3.924307"
+         },
+         {
+            "idCalle": "117",
+            "nombreCalle": "Calle Angustias",
+            "latitud": "37.463070",
+            "longitud": "-3.924441"
+         }
+      ],
+      "novedades": "Seis candelabros del paso.",
+      "interes": "La salida y entrada del paso por su complejidad en la estrechez de la puerta así como el encuentro y despedida con la Hdad del Stmo Cristo de la Salud."
+   },
+   {
+      "id": "12",
+      "name": "Silencio",
+      "fullname": "Real Cofradía de Dulce Nombre de Jesús y Santa Caridad. Muy Antigua Hermandad del Señor de la Humildad y María Santísima de los Dolores",
+      "casa": "Iglesia de Consolación",
+      "dia": "6",
+      "hora": "24:00",
+      "historia": "-",
+      "colores": "Cada nazareno porta el hábito penitencial de su hermandad. Los Apóstoles y sayones del Ecce-Homo llevan los rostrillos levantados como símbolo de luto.",
+      "pasos": [
+         {
+            "idPaso": "19",
+            "tipo": "Paso de misterio",
+            "nombrePaso": "Cristo Yacente, de la Real Cofradía de Dulce Nombre de Jesús."
+         },
+         {
+            "idPaso": "20",
+            "tipo": "Paso de Virgen",
+            "nombrePaso": "La Soledad de Nuestra Señora, de la Muy Antigua Hermandad del Señor de la Humildad y María Santísima de los Dolores."
+         }
+      ],
+      "calles": [
+         {
+            "idCalle": "118",
+            "nombreCalle": "Compás de Consolación",
+            "latitud": "37.464684",
+            "longitud": "-3.924737"
+         },
+         {
+            "idCalle": "119",
+            "nombreCalle": "Carrera de las Mercedes",
+            "latitud": "37.464168",
+            "longitud": "-3.924052"
+         },
+         {
+            "idCalle": "120",
+            "nombreCalle": "Calle Alonso de Alcalá",
+            "latitud": "37.463732",
+            "longitud": "-3.925009"
+         },
+         {
+            "idCalle": "111",
+            "nombreCalle": "Plaza Arcipreste de Hita",
+            "latitud": "37.463627",
+            "longitud": "-3.924951"
+         },
+         {
+            "idCalle": "110",
+            "nombreCalle": "Calle General Lástres",
+            "latitud": "37.463508",
+            "longitud": "-3.924852"
+         },
+         {
+            "idCalle": "110",
+            "nombreCalle": "Calle General Lástres",
+            "latitud": "37.463653",
+            "longitud": "-3.924525"
+         },
+         {
+            "idCalle": "123",
+            "nombreCalle": "Calle Angustias",
+            "latitud": "37.462980",
+            "longitud": "-3.924374"
+         },
+         {
+            "idCalle": "124",
+            "nombreCalle": "Calle Miguel de Cervantes",
+            "latitud": "37.462127",
+            "longitud": "-3.924138"
+         },
+         {
+            "idCalle": "125",
+            "nombreCalle": "Calle Álamos",
+            "latitud": "37.462219",
+            "longitud": "-3.922716"
+         },
+         {
+            "idCalle": "125",
+            "nombreCalle": "Calle Álamos",
+            "latitud": "37.462596",
+            "longitud": "-3.922614"
+         },
+         {
+            "idCalle": "126",
+            "nombreCalle": "Carrera de las Mercedes",
+            "latitud": "37.463373",
+            "longitud": "-3.923357"
+         },
+         {
+            "idCalle": "127",
+            "nombreCalle": "Compás de Consolación",
+            "latitud": "37.464636",
+            "longitud": "-3.924747"
+         }
+      ],
+      "novedades": "-",
+      "interes": "En esta procesión de silencio y recogimiento solo rota por el silencio de las cadenas que se arrastran y del tambor ronco es cualquier punto del recorrido idóneo para poder verla."
+   },
+   {
+      "id": "13",
+      "name": "Resucitado",
+      "fullname": "Grupo Parroquial de Culto Hermandad Sacramental de Cristo Salvador Resucitado y Nuestra Señora del Alba y Rocío",
+      "casa": "Iglesia de El Salvador",
+      "dia": "8",
+      "hora": "11:15",
+      "historia": "Un grupo de fieles pertenecientes a la comunidad parroquial de El Salvador a principios de curso 2016/2017 me plantean la idea de poder formar una hermandad sacramental de Cristo Salvador Resucitado dándole culto a dicha imagen que se encuentra en la Parroquia de El Salvador. Movidos ante todo por el amor a Jesús Eucaristía y siendo la mayor parte del grupo participantes del grupo Kairos, me resultó atrayente tal idea de darles cabida en ésta comunidad parroquial, ya que forman parte activa de la vida cristiana de esta ciudad de Alcalá la Real. <br/><br/> Reunidos en varias ocasiones con ellos y sobre todo viendo pros y contras consultado el Consejo Parroquial y pidiendo parecer a la Unión Local de Cofradías de Alcalá la Real, comienzan las gestiones para inscribir dicho grupo en la delegación diocesana de hermandades y cofradías de Jaén. La cual nos aprueban el pasado día 14 de julio de 2017. Hecho éste breve repaso histórico, debo explicar el motivo de ser hermandad Sacramental, ¿Qué es eso? y ¿Por qué? <br/><br/>Ser hermandad sacramental deriva de tener a Jesús Eucaristía como centro de toda actividad de esta nueva hermandad, al igual que dar culto a la Eucaristía especialmente en la octava del Corpus teniendo sus cultos especiales y su procesión claustral con Jesús Eucaristía. <br/><br/> Al no haber ninguna hermandad o cofradía Sacramental en nuestra ciudad de Alcalá la Real nos pareció bien tener como característica especial este punto y sobre todo por hacer algo novedoso para realzar más nuestra religiosidad popular si cabe. <br/><br/> Otra característica de ser hermandad sacramental es el color de cera que es rojo y de simbología eucarística así lo expresa nuestro escudo e insignia de esta hermandad como el traje de estatutos. No debo dejar pasar la adquisición de la imagen de la Virgen. Ntra. Sra. del Alba y Rocío y por qué esa advocación. <br/><br/>Al saber de la puesta en marcha de dicha hermandad me ofertaron la posibilidad de adquirir la imagen de una Virgen. Al ser especialmente hermandad de gloria por dar culto a la resurrección la imagen no debía ser de dolorosa por lo que puesto en comunicación con el escultor y hechos los cambios oportunos la imagen quedó como se venera actualmente en dicha hermandad. El titulo viene dado por la explicación de ser María el Alba, el renacer de la resurrección. La iniciativa de esta futura hermandad nación en unas convivencias de verano en el Rocío, de ahí su segundo título, y como no, al haber otra hermandad de Gloria en esta comunidad parroquial que le rinde culto a la Virgen del Rocío y siendo la madrina en la bendición de la imagen quisimos que llevara ese título. Desde aquí dar las gracias a todos lo que se han implicado en este nuevo proyecto y desde su nacimiento hasta ahora decir que más de 150 hermanos componemos esta futura hermandad y animar a todos aquello que quieran unirse a este grupo de gente en su mayoría jóvenes que desean llevar a Jesús Eucaristía a todos los rincones de Alcalá la Real y de expresar la alegría de la resurrección del Señor junto con su madre Ntra. Sra. del Alba y Rocío.",
+      "colores": "Túnica de sarga blanca, al igual que el capirote, que llevará el escudo de la Hermandad bordado y escapulario de sarga granate.",
+      "pasos": [
+        {
+            "idPaso": "21",
+            "tipo": "Paso de misterio",
+            "nombrePaso": "Jesús Resucitado"
+         }
+        ],
+      "calles": [
+         {
+            "idCalle": "128",
+            "nombreCalle": "Avenida de Iberoamérica",
+            "latitud": "37.455789",
+            "longitud": "-3.924130"
+         },
+         {
+            "idCalle": "129",
+            "nombreCalle": "Calle Bolivia",
+            "latitud": "37.456227",
+            "longitud": "-3.924543"
+         },
+         {
+            "idCalle": "129",
+            "nombreCalle": "Calle Bolivia",
+            "latitud": "37.456442",
+            "longitud": "-3.924717"
+         },
+         {
+            "idCalle": "130",
+            "nombreCalle": "Calle México",
+            "latitud": "37.456719",
+            "longitud": "-3.924138"
+         },
+         {
+            "idCalle": "131",
+            "nombreCalle": "Avenida República Argentina",
+            "latitud": "37.456923",
+            "longitud": "-3.923690"
+         },
+         {
+            "idCalle": "131",
+            "nombreCalle": "Avenida República Argentina",
+            "latitud": "37.457202",
+            "longitud": "-3.924175"
+         },
+         {
+            "idCalle": "132",
+            "nombreCalle": "Calle Alfonso XI",
+            "latitud": "37.458754",
+            "longitud": "-3.923990"
+         },
+         {
+            "idCalle": "132",
+            "nombreCalle": "Calle Alfonso XI",
+            "latitud": "37.459717",
+            "longitud": "-3.923942"
+         },
+         {
+            "idCalle": "133",
+            "nombreCalle": "Calle Isabel la Católica",
+            "latitud": "37.459754",
+            "longitud": "-3.923169"
+         },
+         {
+            "idCalle": "134",
+            "nombreCalle": "Avenida de Andalucía",
+            "latitud": "37.459867",
+            "longitud": "-3.922566"
+         },
+         {
+            "idCalle": "135",
+            "nombreCalle": "Paseo de los Álamos",
+            "latitud": "37.460798",
+            "longitud": "-3.922799"
+         },
+         {
+            "idCalle": "135",
+            "nombreCalle": "Calle Álamos",
+            "latitud": "37.462256",
+            "longitud": "-3.922713"
+         },
+         {
+            "idCalle": "135",
+            "nombreCalle": "Calle Álamos",
+            "latitud": "37.462603",
+            "longitud": "-3.922617"
+         },
+         {
+            "idCalle": "136",
+            "nombreCalle": "Carrera de las Mercedes",
+            "latitud": "37.463650",
+            "longitud": "-3.923582"
+         },
+         {
+            "idCalle": "136",
+            "nombreCalle": "Carrera de las Mercedes",
+            "latitud": "37.463940",
+            "longitud": "-3.923877"
+         },
+         {
+            "idCalle": "137",
+            "nombreCalle": "Calle General Lastres",
+            "latitud": "37.463663",
+            "longitud": "-3.924513"
+         },
+         {
+            "idCalle": "138",
+            "nombreCalle": "Calle Angustias",
+            "latitud": "37.462867",
+            "longitud": "-3.924344"
+         },
+         {
+            "idCalle": "139",
+            "nombreCalle": "Calle Miguel de Cervantes",
+            "latitud": "37.462128",
+            "longitud": "-3.924138"
+         },
+         {
+            "idCalle": "140",
+            "nombreCalle": "Paseo de los Álamos",
+            "latitud": "37.462213",
+            "longitud": "-3.922708"
+         },
+         {
+            "idCalle": "140",
+            "nombreCalle": "Paseo de los Álamos",
+            "latitud": "37.460925",
+            "longitud": "-3.922778"
+         },
+         {
+            "idCalle": "141",
+            "nombreCalle": "Avenida de Andalucía",
+            "latitud": "37.457184",
+            "longitud": "-3.922040"
+         },
+         {
+            "idCalle": "142",
+            "nombreCalle": "Avenida de Iberoamérica",
+            "latitud": "37.456429",
+            "longitud": "-3.922402"
+         },
+         {
+            "idCalle": "142",
+            "nombreCalle": "Avenida de Iberoamérica",
+            "latitud": "37.455937",
+            "longitud": "-3.923754"
+         }
+      ],
+      "novedades": "Escudo de la Hermandad. Medallas. Cruz de guía y Faroles (Orfebrería Paula). <br/><br/> Varas (Orfebrería Paula). <br/><br/> Bacalá, diseño y ejecución en el taller de Álvaro Abril. <br/><br/> Parihuela del paso de Cristo. <br/><br/> Traje penitencial: Túnica de sarga blanca, al igual que el capirote, que llevará el escudo de la Hermandad bordado y escapulario de sarga granate.",
+      "interes": "Es la primera salida procesional de la Hermandad."
+   }
+]

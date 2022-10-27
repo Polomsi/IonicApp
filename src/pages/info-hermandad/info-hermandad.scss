@@ -1,0 +1,41 @@
+page-info-hermandad {
+    .contenedor{
+        background-color: #fff6eb;
+    }
+    .contenedor ion-item-divider, .nombreCompleto{
+        font-weight: bold;
+        background-color: #e9cdaf;
+        box-shadow:1px 1px 10px #a36829;
+    }
+    .imagenTraje{
+        width:7em;
+        margin-right:0em;
+        margin-top:0.5em;
+    }
+    .nombreCompleto{
+        padding-top: 1.25em;
+        padding-bottom: 1.25em;
+        padding-left: 1em;
+        padding-right: 1em;
+        border-radius: 0.5em;
+    }
+    .parrafo{
+        padding: 1.25em;
+        background-color: #ffe6cc;
+        border-radius:0.3em;
+    }
+    .casa{
+        font-size: 1.25em;
+        margin-bottom: 1.5em;
+        margin-top: -1em;
+    }
+    .tipoPaso{
+        background-color:#a39585d2;
+        padding-top:0.5em;
+        padding-bottom:0.5em;
+        text-align:center;
+        margin-bottom:-1em;
+        font-weight:bold;
+        border-radius: 0.5em 0.5em 0 0;
+    }
+}

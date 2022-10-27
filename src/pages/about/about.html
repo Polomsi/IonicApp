@@ -1,0 +1,20 @@
+<ion-header>
+  <ion-navbar color="primary">
+    <ion-title align="center">
+      Imágenes
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding class="contenedor">
+  <ion-grid >    
+      <ion-row>
+          <ion-col col-12 col-md-4 col-xl-3 align="center" *ngFor="let imagen of imagenes">
+            <h4>{{imagen.hermandad}}</h4>
+            <img [src]="imagen.url"/>
+            <!--<p class="author">Autor: {{imagen.author}}</p>-->
+            <br/>
+          </ion-col>          
+      </ion-row>
+  </ion-grid>
+</ion-content>
